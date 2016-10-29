@@ -3,3 +3,9 @@ F:\Scrum\Test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplicati
 F:\Scrum\Test\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
 F:\Scrum\Test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 F:\Scrum\Test\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\Scrum\Code\nls\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+F:\Scrum\Code\nls\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+F:\Scrum\Code\nls\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
+F:\Scrum\Code\nls\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+F:\Scrum\Code\nls\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+F:\Scrum\Code\nls\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
