@@ -19,7 +19,7 @@ namespace ConsoleApplication1
                 {
                     Console.WriteLine(str+"的质因数为:"+string.Join("*",backlist));
                 }
-                Console.WriteLine("输出完成,请输入:");
+                Console.WriteLine("输出完成,请输入:"); 
                 Console.ReadKey();
             }
         }
