@@ -8,4 +8,5 @@ F:\Scrum\Code\nls\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
 F:\Scrum\Code\nls\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
 F:\Scrum\Code\nls\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
 F:\Scrum\Code\nls\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-F:\Scrum\Code\nls\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+F:\Scrum\Code\nls\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+F:\Scrum\Code\nls\ConsoleApplication1\obj\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache

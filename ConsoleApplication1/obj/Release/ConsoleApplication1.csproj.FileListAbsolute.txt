@@ -1,0 +1,6 @@
+F:\Scrum\Code\nls\ConsoleApplication1\bin\Release\ConsoleApplication1.exe.config
+F:\Scrum\Code\nls\ConsoleApplication1\bin\Release\ConsoleApplication1.exe
+F:\Scrum\Code\nls\ConsoleApplication1\bin\Release\ConsoleApplication1.pdb
+F:\Scrum\Code\nls\ConsoleApplication1\obj\Release\ConsoleApplication1.csproj.CoreCompileInputs.cache
+F:\Scrum\Code\nls\ConsoleApplication1\obj\Release\ConsoleApplication1.exe
+F:\Scrum\Code\nls\ConsoleApplication1\obj\Release\ConsoleApplication1.pdb

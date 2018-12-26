@@ -1,0 +1,5 @@
+F:\Scrum\Code\nls\UnitTestProject1\bin\Release\UnitTestProject1.dll
+F:\Scrum\Code\nls\UnitTestProject1\bin\Release\UnitTestProject1.pdb
+F:\Scrum\Code\nls\UnitTestProject1\obj\Release\UnitTestProject1.csproj.CoreCompileInputs.cache
+F:\Scrum\Code\nls\UnitTestProject1\obj\Release\UnitTestProject1.dll
+F:\Scrum\Code\nls\UnitTestProject1\obj\Release\UnitTestProject1.pdb
