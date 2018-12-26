@@ -6,7 +6,7 @@ namespace UnitTestProject1
     [TestClass]
     public class BankingTest
     {
-        [TestMethod]
+        //[TestMethod]
         public void TestDebitAccount_with_Deposit100_and_draw100()
         {
             Account debitAccount = DebitAccount.OpenAccount();
@@ -15,7 +15,7 @@ namespace UnitTestProject1
             Assert.AreEqual(0,debitAccount.Balance);
         }
 
-        [TestMethod]
+        //[TestMethod]
         public void TestDebitAccount_with_Deposit100_and_draw_200()
         {
             Account debitAccount = DebitAccount.OpenAccount();

@@ -6,7 +6,7 @@ namespace UnitTestProject1
     [TestClass]
     public class GeneratePrimesTst
     {
-        [TestMethod]
+        //[TestMethod]
         public void TestPrimes()
         {
             int[] nullArray = new PrimeGenerator().GeneratePrimes(0);
@@ -25,7 +25,7 @@ namespace UnitTestProject1
             Assert.AreEqual(25, centArray.Length);
             Assert.AreEqual(97, centArray[24]);
         }
-        [TestMethod]
+        //[TestMethod]
         public void TestExhaustive()
         {
             for (int i = 2; i < 500; i++)
